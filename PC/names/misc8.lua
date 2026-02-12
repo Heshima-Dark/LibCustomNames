@@ -35,3 +35,4 @@ n["@Wusband"] = {"Wusband", "|cfeeef5W|r|cfedeecu|r|cfecee3s|r|cffbedbb|r|cffaed
 n["@Velarion"] = {"Velarion", "|ce2f902V|r|cc5fa05e|r|ca8fb07l|r|c8cfc09a|r|c6ffc0br|r|c52fd0ei|r|c35fe10o|r|c18ff12n|r"}
 n["@LilianHeart"] = {"LilianHeart", "|cfff4faL|r|cffe8f5i|r|cffddf0l|r|cffd1ebi|r|cffc6e6a|r|cffbae0n|r|cffafdbH|r|cffa3d6e|r|cff98d1a|r|cff8cccr|r|cff81c7t|r"}
 n["@Valerachich"] = {"Valerachich", "|c7c00ccV|r|c8202d1a|r|c8804d6l|r|c8e06dbe|r|c9408e0r|r|c9a0ae5a|r|ca00ceac|r|ca60eefh|r|cac10f4i|r|cb012f9c|r|cb414ffh|r"}
+n["@Heshima"] = { "Heshima", "|cFF0000H|cFF0000e|cFFFFFFs|cFFFFFFh|c0000FFi|c0000FFm|c0000FFa|r" }
